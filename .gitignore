@@ -1,0 +1,12 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore node_modules directory
+node_modules/
+
+# Byte-compiled / optimized / DLL files (for Python projects)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other entries as needed...
